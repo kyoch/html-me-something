@@ -11,8 +11,13 @@ footer {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-h2 {
+h3 {
     color:#ff3300;
+    padding: 0.5em;
+}
+
+p {
+    padding: 0.5em;
 }
 
 a {
@@ -33,4 +38,8 @@ img {
     height: 435px;
     width: 650px;
     border: 1px solid #8c8c8c;
+}
+
+#bold {
+    font-weight: bold;
 }
