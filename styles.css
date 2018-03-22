@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    max-width: 1024px;
+    max-width: 650px;
     margin: 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.8em;
@@ -17,14 +17,11 @@ h2 {
 
 a {
     text-decoration: none;
-    text-decoration-color: #0066cc;
+    color:#ff3300;
 }
 
 a:hover {
     text-decoration-line: underline;
-}
-a:visited {
-    color: #ff3300;
 }
 
 img {
@@ -33,7 +30,7 @@ img {
 }
 
 .container {
-    height: 268px;
-    width: 400px;
+    height: 435px;
+    width: 650px;
     border: 1px solid #8c8c8c;
 }
